@@ -1,0 +1,35 @@
+div{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:black;
+  color:white;
+  border:6px solid #14ed21;
+  border-radius:10px;
+  margin-top:40px;
+}
+
+p{
+  font-size:30px;
+  font-weight:bold;
+  
+ 
+}
+
+
+#btn{
+  margin:20px;
+  padding:10px;
+  width:100px;
+  background:#3cff2b;
+  transition:0,2s all;
+}
+
+#btn:hover{
+   background:#e60009;
+   color:white;
+}
+
+#botm{
+  border:none;
+}
